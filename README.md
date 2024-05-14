@@ -100,7 +100,7 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/carduser/tab57ygtb1ergxd3sahnd3ue9" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
