@@ -32,6 +32,7 @@
 </div>
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Pedro Henrique</code>, tenho 20 anos, moro em BH e estou começando na programação. Atualmente sou <code>aluno</code> no curso de Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+</div>
 -----
 
 
