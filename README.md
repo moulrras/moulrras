@@ -183,7 +183,7 @@
 </details>
 </div>
 <div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tab57ygtb1ergxd3sahnd3ue9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
 </div>
 <div>
