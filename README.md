@@ -222,10 +222,8 @@
 </tr> 
 <tr>
 <td>
-<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
-</td>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+<a href="https://github.com/moulrras" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
 </td>
 </tr>
 <tr>
@@ -233,28 +231,6 @@
 </tr> 
 </table>
 </div>
-
------
-
-<div>
-<table align="center">
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://github.com/moulrras" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td>
-
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
------
 
 
 <!-- Obrigado pela visita! -->
