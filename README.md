@@ -256,10 +256,5 @@
 
 -----
 
-<!---
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
-</div>
--->
 
 <!-- Obrigado pela visita! -->
