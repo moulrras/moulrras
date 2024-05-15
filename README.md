@@ -223,7 +223,7 @@
 <tr>
 <td>
 <td>
-<a href="https://github.com/moulrras" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+<a href="https://github.com/moulrras" target="_blank"><img align="center" width="800px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
 </td>
 </tr>
 <tr>
