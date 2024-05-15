@@ -243,12 +243,10 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://github.com/moulrras" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
-</td>
+
 </tr>
 <tr>
  <td align="center" colspan="2"></td>
