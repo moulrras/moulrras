@@ -29,7 +29,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> , me Pedro Henrique, tenho 20 anos, moro em BH e estou começando na programação. Atualmente sou aluno no curso de Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> , me Pedro Henrique, tenho 21 anos, moro em Belo Horizonte e estou começando na programação. Atualmente sou aluno no curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 -----
 
@@ -47,8 +47,6 @@
 - ⚽: &nbsp; Gosto muito de futebol, torço para o Cruzeiro. <br />
 - 🏀: &nbsp; Outro esporte que gosto muito é basquete, e torço pro Golden State Warrios. <br />
 - 🎵: &nbsp; Gosto de escutar diferentes tipos de música. <br />
-- 🎮: &nbsp; Gosto de jogar vários jogos. <br />
-- 🎱: &nbsp; Gosto muito de jogar sinuca. <br />
 
 </div>
 </div>
@@ -59,8 +57,6 @@
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true"/></a></code>
