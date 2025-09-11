@@ -29,7 +29,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> , me Pedro Henrique, tenho 21 anos, moro em Belo Horizonte e estou começando na programação. Atualmente sou aluno no curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> , me Pedro Henrique, tenho 22 anos, moro em Belo Horizonte e estou começando na programação. Atualmente sou aluno no curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 -----
 
