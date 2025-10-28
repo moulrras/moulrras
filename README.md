@@ -90,12 +90,10 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Moreira's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=tab57ygtb1ergxd3sahnd3ue9" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=tab57ygtb1ergxd3sahnd3ue9"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="300px" height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=tab57ygtb1ergxd3sahnd3ue9"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Moulrras"/>
 </div>
 <div>
 
