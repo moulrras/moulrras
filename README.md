@@ -79,7 +79,6 @@
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moulrras&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moulrras&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moulrras&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moulrras&theme=github_dark"/>
 </div>
@@ -113,22 +112,3 @@
 
 
 -----
-<div>
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<td>
-<a href="https://github.com/moulrras" target="_blank"><img align="center" width="600px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
-
-<!-- Obrigado pela visita! -->
