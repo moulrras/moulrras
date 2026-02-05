@@ -47,7 +47,7 @@
 - ⚽: &nbsp; Gosto muito de futebol, torço para o Cruzeiro. <br />
 - 🏀: &nbsp; Outro esporte que gosto muito é basquete, e torço pro Golden State Warrios. <br />
 - 🎵: &nbsp; Gosto de escutar diferentes tipos de música. <br />
-
+- 🛢:  &nbsp; Estou querendo desenvolver minhas habilidades em dados, utilizando Pandas, SQL e Power BI.
 </div>
 </div>
 
