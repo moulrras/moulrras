@@ -71,7 +71,7 @@
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/mysql/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/mysql/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 
 
